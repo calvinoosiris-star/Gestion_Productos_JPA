@@ -1,7 +1,7 @@
 # Gestion de Productos _ JPA
 Mini proyecto CRUD desarrollado en Java utilizando JPA (Hibernate) y MySQL.
 
-# Funcionalidades
+## Funcionalidades
 -Crear producto
 -Listar producto
 -Eliminar producto
